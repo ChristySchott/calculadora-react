@@ -5,4 +5,4 @@ Projeto desenvolvido durante o curso Web Moderno com JavaScript da Cod3r. A calc
 Imagem do resultado final e de uma parte do código escrito:
 
 
-![]()
+![](https://github.com/ChristySchott/calculadora-react/blob/master/React.PNG)
